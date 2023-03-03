@@ -1,5 +1,5 @@
 # Intensity-Transformaiton-on-Image
-Applying different intensity transformation functions on a Mammogram image.
+Applying different intensity transformation functions on a Mammogram image using python.
 
 
 Notation: r – pixel intensity of the input image; s - pixel intensity of the transformed image; L – the maximum intensity of the input image (e.g., L = 256 for an 8-bit grayscale image)
